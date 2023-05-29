@@ -1,0 +1,16 @@
+{
+  "name": "speedtest-grafana-cloud",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "suin <suinyeze@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-fetch": "^3.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.2.5",
+    "prettier": "^2.8.8"
+  }
+}
